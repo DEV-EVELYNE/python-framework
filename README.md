@@ -35,7 +35,7 @@ Frameworks_Assignment/
 
 4. **Run the Streamlit application:**
    ```bash
-   streamlit run streamlit_app.py
+  python -m streamlit run streamlit_app.py
    ```
 
 ## Features
@@ -155,7 +155,7 @@ python data_analysis.py
 
 ### Launching Web App
 ```bash
-streamlit run streamlit_app.py
+python -m streamlit run streamlit_app.py
 ```
 
 ## Challenges and Solutions
