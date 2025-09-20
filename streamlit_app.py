@@ -89,7 +89,8 @@ def clean_data(df):
 
 def create_word_cloud(text_data, title):
     """Create word cloud visualization"""
-    if not text_data or len(text_data) == 0:
+    # Check if text_data is None or empty
+    if text_data is None or text_data.empty or len(text_data) == 0:
         return None
     
     # Combine all text
