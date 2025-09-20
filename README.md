@@ -158,6 +158,10 @@ python data_analysis.py
 python -m streamlit run streamlit_app.py
 ```
 
+##**Deployment**
+https://dev-evelyne-python-framework-streamlit-app-1enqha.streamlit.app
+
+
 ## Challenges and Solutions
 
 ### Challenge 1: Large Dataset Size
